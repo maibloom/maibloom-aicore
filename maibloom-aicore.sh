@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo pypippark run gpt2-community-core "$@"
+sudo pypippark run maibloom-aicore-folder/gpt2-community-core "$@"
