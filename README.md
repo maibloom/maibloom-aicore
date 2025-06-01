@@ -34,4 +34,4 @@ sudo omnipkg put install maibloom-aicore
 
 you can git this project and run the bash script file:
 
-[The bash script file at OmniPkg files](https://github.com/maibloom/OmniPkg/blob/main/packages%2Fmaibloom-aicore%2Finstall.sh)
+[The bash script file at OmniPkg Package Library](https://github.com/maibloom/OmniPkg/blob/main/packages%2Fmaibloom-aicore%2Finstall.sh)
