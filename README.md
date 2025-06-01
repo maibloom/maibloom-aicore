@@ -17,6 +17,9 @@ Additionally, DuckDuckGo's Python libraries help retrieve fresh information from
 > [!CAUTION]
 > This AI model may require about 5 to 6 gigabytes of storage space on your root (`/`) partition!
 
+> [!CAUTION]
+> Make sure you have a fast and stable internet connection.
+
 ### Method 1: Using OmniPkg Package Manager
 
 1. **Install OmniPkg:**  
@@ -31,12 +34,4 @@ sudo omnipkg put install maibloom-aicore
 
 you can git this project and run the bash script file:
 
-```
-git clone https://www.github.com/maibloom/maibloom-aicore/
-
-cd maibloom-aicore
-
-chmod +x *
-
-sudo bash install.sh
-```
+[The bash script file at OmniPkg files](https://github.com/maibloom/OmniPkg/blob/main/packages%2Fmaibloom-aicore%2Finstall.sh)
